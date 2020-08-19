@@ -25,8 +25,8 @@ Init and build for Android
 #. Now it's time for a coffee / tea, or a dinner if you have a slow computer.
    The first build will be slow, as it will download the Android SDK, NDK, and
    others tools needed for the compilation.
-   Don't worry, thoses files will be saved in a global directory and will be
-   shared across the different project you'll manage with Buildozer.
+   Don't worry, thoses files will be saved in a global directory that will be
+   shared across the different projects you'll manage with Buildozer.
 
 #. At the end, you should have an APK file in the `bin/` directory.
 
